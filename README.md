@@ -39,7 +39,7 @@ A Note is a simple object with a Title and a Body.
 ```
 {
     "title": "Test Title",
-    "body": "This is a test body #1"
+    "body": "This is a test body #1 modified"
 }
 ```
 
